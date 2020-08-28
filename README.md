@@ -1,3 +1,6 @@
 # Thingsgosocial_Task
 
-To run execute : node execute.js
+
+```console
+avinash@kali:~$ node execute.js 
+```
